@@ -19,7 +19,7 @@ I am an enthusiastic, ambitious, aspiring developer, eager to learn and contribu
 <br>
 
 ## Let's connect 🌍:
-<a href="https://github.com/shalinimada"> <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/></a>
+<a href="https://github.com/shalinimada"> <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://img.icons8.com/glyph-neue/512/FFFFFF/github.png"/></a>
 
 <a href="https://www.facebook.com/shalinimada/"><img align="left"  alt="facebook" width="30px" style="paddin-gright:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> </a>
 
