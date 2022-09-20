@@ -3,12 +3,12 @@
  <img src="https://github.com/shalinimada/shalinimada/blob/master/girl.gif" alt="Coder GIF" width="500" height="400">
 </br>
 
-- I’m currently learning:🌱 Front-End Web Development | 🌱 Python | 🌱 Cloud Computing ;
-- 🔭 I’m currently working on making my protfolio website;
-- 🤔 I’m looking for help with web development skills and Italian;
-- 💬 Ask me about web development and life in Padova,Italy;
-- 😄 Pronouns: Coder, Leader and Optimist;
-- ⚡ Fun fact: The Firefox Fox isn't a fox! It's a Red panda;
+- 🌱 I’m currently learning:🌱 Front-End Web Development | 🌱 Python | 🌱 Cloud Computing ;
+- 🔭 I’m currently working on making my protfolio website ;
+- 🤔 I’m looking for help with web development skills and Italian ;
+- 💬 Ask me about web development and life in Padova,Italy ;
+- 😄 Pronouns: Coder, Leader and Optimist ;
+- ⚡ Fun fact: The Firefox Fox isn't a fox! It's a Red panda ;
 
 I am an enthusiastic, ambitious, aspiring developer, eager to learn and contribute. Apart from programming, I love Travelling, reading and cooking.Please feel free to contact me at : sreeshalinimada@gmail.com
 
