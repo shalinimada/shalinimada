@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on making my protfolio website
 - 🤔 I’m looking for help with web development skills and Italian
 - 💬 Ask me about web development and life in Padova,Italy.
-- 📫 How to reach me: sreeshalinimada@gmail.com
 - ⚡ Fun fact: The Firefox Fox isn't a fox! It's a Red panda.<br>
 I am an enthusiastic, ambitious, aspiring developer, eager to learn and contribute. Apart from programming, I love Travelling, reading and cooking.Please feel free to contact me at : sreeshalinimada@gmail.com
 
