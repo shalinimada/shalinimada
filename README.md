@@ -1,6 +1,9 @@
 ### Buongiorno 👋👩‍💻
 
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966](https://user-images.githubusercontent.com/84394929/191251650-99d1a42f-9bee-44cd-b4ed-2e7d2d081f52.gif)
+
+<br>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</br>
 
 Apart from programming, I love Travelling, reading and cooking.
 - 🔭 I’m currently working on making my protfolio website
