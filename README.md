@@ -2,7 +2,7 @@
 
 
 <br>
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ <img src="https://github.com/shalinimada/shalinimada/blob/master/girl.gif" alt="Coder GIF" width="500" height="400">
 </br>
 
 Apart from programming, I love Travelling, reading and cooking.
