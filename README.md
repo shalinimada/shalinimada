@@ -15,9 +15,7 @@ Apart from programming, I love Travelling, reading and cooking.
 ![Girl-coder-580x386](https://user-images.githubusercontent.com/84394929/191253216-707b6896-5dbf-4b60-8991-27d8a5d22139.png)
 
 
-<img src="https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest?cb=20190312030033" width="500" height="500" alt="img">
-
-<-- [I am an enthusiastic, ambitious developer, eager to contribute to make open source more accessible.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.Apart from programming, I am a foodie and  love travelling.
+<-- [I am an enthusiastic, ambitious, aspiring developer, eager to learn and contribute.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.Apart from programming, I am a foodie and  love travelling.
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 
@@ -31,7 +29,4 @@ Apart from programming, I love Travelling, reading and cooking.
 <a href="https://dev.to/kadambinipanda"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" width="50" height="50" alt="dev"></a>
 <a href="https://www.linkedin.com/in/kadambini-panda-b730141b8/"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="50" height="50" alt="linkedin"></a>
 
-## Some GitHub Stats
-![Kadambini's github stats](https://github-readme-stats.vercel.app/api?username=kadambinipanda&show_icons=true&theme=dracula)
-<!--![Visitor Count](https://profile-counter.glitch.me/{kadambinipanda}/count.svg)-->
-![image title](https://rushter.com/counter.svg)](url) -->
+
