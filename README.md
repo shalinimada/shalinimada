@@ -14,9 +14,10 @@ I am an enthusiastic, ambitious, aspiring developer, eager to learn and contribu
 ## Let's connect 🌍:
 <a href="https://github.com/shalinimada">  <img align="center" src="https://github.com/shalinimada/shalinimada/blob/b589c2e0371e77fcc3fd1efb00f36c0e082d034e/logos/github.png" width="70" height="50" alt="github"> </a>
 
-<a href="https://www.facebook.com/shalinimada/">  <img align="center" src="" width="50" height="50" alt="facebook"> </a>
-<a href="https://www.instagram.com/shalini_sreee/"><img align="center" src="" width="50" height="50" alt="instagram"></img></a>
-<a href="https://dev.to/kadambinipanda"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" width="50" height="50" alt="dev"></a>
-<a href="https://www.linkedin.com/in/kadambini-panda-b730141b8/"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="50" height="50" alt="linkedin"></a>
+<a href="https://www.facebook.com/shalinimada/">  <img align="center" src="https://github.com/shalinimada/shalinimada/blob/b589c2e0371e77fcc3fd1efb00f36c0e082d034e/logos/fb.png" width="50" height="50" alt="facebook"> </a>
+
+<a href="https://www.instagram.com/shalini_sreee/"><img align="center" src="https://github.com/shalinimada/shalinimada/blob/b589c2e0371e77fcc3fd1efb00f36c0e082d034e/logos/insta.png" width="50" height="50" alt="instagram"></img></a>
+
+<a href="https://www.linkedin.com/i/"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="50" height="50" alt="linkedin"></a>
 
 
