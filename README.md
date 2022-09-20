@@ -12,7 +12,7 @@
 I am an enthusiastic, ambitious, aspiring developer, eager to learn and contribute. Apart from programming, I love Travelling, reading and cooking.Please feel free to contact me at : sreeshalinimada@gmail.com
 
 ## Let's connect 🌍:
-<a href="https://github.com/shalinimada">  <img align="center" src="http://i.imgur.com/9I6NRUm.pn](https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png)g" width="70" height="50" alt="github"> </a>
+<a href="https://github.com/shalinimada">  <img align="center" src="https://github.com/shalinimada/shalinimada/blob/b589c2e0371e77fcc3fd1efb00f36c0e082d034e/logos/github.png" width="70" height="50" alt="github"> </a>
 
 <a href="https://www.facebook.com/shalinimada/">  <img align="center" src="" width="50" height="50" alt="facebook"> </a>
 <a href="https://www.instagram.com/shalini_sreee/"><img align="center" src="" width="50" height="50" alt="instagram"></img></a>
