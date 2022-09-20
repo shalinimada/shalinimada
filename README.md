@@ -4,7 +4,7 @@
 </br>
  I’m currently learning:<br>
 🌱 Front-End Web Development | 🌱 Python
-<br>
+
 ### 🧰 Languages and Tools 
 <br>
 
