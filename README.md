@@ -9,12 +9,14 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <br>
- I’m currently learning:<br>
-🌱 Front-End Web Development | 🌱 Python
-- 🔭 I’m currently working on making my protfolio website
-- 🤔 I’m looking for help with web development skills and Italian
-- 💬 Ask me about web development and life in Padova,Italy.
-- ⚡ Fun fact: The Firefox Fox isn't a fox! It's a Red panda.<br>
+
+- I’m currently learning:🌱 Front-End Web Development | 🌱 Python;
+- 🔭 I’m currently working on making my protfolio website;
+- 🤔 I’m looking for help with web development skills and Italian;
+- 💬 Ask me about web development and life in Padova,Italy;
+- 😄 Pronouns: Coder, Leader and Optimist;
+- ⚡ Fun fact: The Firefox Fox isn't a fox! It's a Red panda;
+
 I am an enthusiastic, ambitious, aspiring developer, eager to learn and contribute. Apart from programming, I love Travelling, reading and cooking.Please feel free to contact me at : sreeshalinimada@gmail.com
 
 ## Let's connect 🌍:
