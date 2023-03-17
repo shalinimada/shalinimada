@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: 🌱 Erlang ,Elixir 🌱 Front-End Web Development | 🌱 Python | 🌱 Cloud Computing ;
 - 🔭 I’m currently working on making my protfolio website;
-- 🤔 I’m looking for help with web development skills and Italian;
+- 🤔 I’m looking for help with web development and Italian;
 - 💬 Ask me about web development and life in Padova,Italy;
 - 😄 Pronouns: Coder, Leader and Optimist;
 - ⚡ Fun fact: The Firefox Fox isn't a fox! It's a Red panda;
