@@ -3,7 +3,7 @@
  <img src="https://github.com/shalinimada/shalinimada/blob/master/girl.gif" alt="Coder GIF" width="500" height="400">
 </br>
 
-- 🌱 I’m currently learning: 🌱 Erlang and ELixir 🌱 Front-End Web Development | 🌱 Python | 🌱 Cloud Computing ;
+- 🌱 I’m currently learning: 🌱 Erlang ,Elixir 🌱 Front-End Web Development | 🌱 Python | 🌱 Cloud Computing ;
 - 🔭 I’m currently working on making my protfolio website;
 - 🤔 I’m looking for help with web development skills and Italian;
 - 💬 Ask me about web development and life in Padova,Italy;
