@@ -7,14 +7,19 @@
 ## 💼 Current Position
 Firmware and Embedded Software Engineer — Inkwell Data Ltd.
 
-I am an enthusiastic, ambitious, aspiring developer, eager to learn and contribute. Apart from programming, I love Travelling, reading and cooking.Please feel free to contact me at : sreeshalinimada@gmail.com
-
 ## 🧰 Proficient Languages and Tools <br>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" />
-          
+<img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" />
+<img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
+<img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+                    
+<br>
+I bridge the gap between the physical and digital worlds.
+With an M.Sc. in ICT (University of Padova) and a solid electronics foundation, I engineer the full IoT stack—from Embedded C firmware for low-power devices to complex protocol management (Lora & LoRaWAN, EN 13757).
+My core strength is translating hardware data into value by building robust, secure backends in Elixir/Phoenix.                    
 
 <br>
 
