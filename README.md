@@ -15,7 +15,8 @@ Firmware and Embedded Software Engineer — Inkwell Data Ltd.
 <img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
                     
-<br>
+<br clear="both"/>
+
 I bridge the gap between the physical and digital worlds.
 With an M.Sc. in ICT (University of Padova) and a solid electronics foundation, I engineer the full IoT stack—from Embedded C firmware for low-power devices to complex protocol management (Lora & LoRaWAN, EN 13757).
 My core strength is translating hardware data into value by building robust, secure backends in Elixir/Phoenix.                    
