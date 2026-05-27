@@ -4,7 +4,7 @@
 </br>
 
 ## 💼 Current Position
-Firmware and Embedded Software Engineer — Inkwell Data Ltd.
+Firmware and Software Engineer — Inkwell Data Ltd.
 
 ## 🧰 Languages and Tools <br>
 
