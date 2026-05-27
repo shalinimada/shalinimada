@@ -30,8 +30,6 @@ My core strength is translating hardware data into value by building robust, sec
 
 <a href="https://www.facebook.com/shalinimada/"><img align="left"  alt="facebook" width="30px" style="paddin-gright:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> </a>
 
-<a href="https://www.instagram.com/shalini_sreee/"><img align="left" alt="instagram" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/128px-Instagram_logo_2016.svg.png"></img></a>  
-
 <a href="https://www.linkedin.com/in/sree-shalini-mada-a89638190/"><img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 
